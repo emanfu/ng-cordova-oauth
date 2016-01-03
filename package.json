@@ -34,5 +34,8 @@
   "license": "MIT",
   "scripts": {
     "test": "grunt test"
+  },
+  "dependencies": {
+    "phantomjs": "^1.9.19"
   }
 }
